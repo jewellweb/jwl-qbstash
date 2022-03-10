@@ -1,4 +1,4 @@
--- DISCORD: Jew#1881
+----- DISCORD: Jew#1881 -----
 
 fx_version 'bodacious'
 game 'gta5'
