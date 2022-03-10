@@ -12,7 +12,6 @@
 local PlayerData = {}
 
 QBCore = nil
-
 local coreLoaded = false
 Citizen.CreateThread(function()
     while QBCore == nil do
