@@ -27,7 +27,7 @@ Config.Items = { -- SİLAH KOYACAKSANIZ TYPE YAZAN YERİ "weapon", İTEM KOYACAK
             type = "weapon",
             slot = 2,
 		},
-		[3] = {
+	[3] = {
             name = "armor",
             amount = 1,
             type = "item",
